@@ -1,0 +1,5 @@
+1. Client tidak hanya mengambil file terakhir, tetapi seluruh riwayat revisi dicopy seluruhnya
+2. jika terjadi masalah di server, client masih tetap bekerja, memanipulasi file, sampai melihat riwayat perubahan
+3. server lebih dari satu, karena tiap server isinya sama, full backup data
+
+contoh : Git, mercurial, bitbucket

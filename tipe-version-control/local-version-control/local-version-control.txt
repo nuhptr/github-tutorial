@@ -1,0 +1,7 @@
+1. berjalan hanya di local komputer
+2. sederhana dan tidak butuh server, riwayat pekerjaan di simpan di local komputer
+3. setiap perubahan versi yang terjadi pada file hanya disimpan di local komputer
+
+kekurangan : 
+- kalo komputer rusak ilang semua versi 
+- sulit berkolaborasi dengan pengguna lain

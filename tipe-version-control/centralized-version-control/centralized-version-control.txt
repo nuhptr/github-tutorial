@@ -1,0 +1,8 @@
+1. menyimpan seluruh data revisi di server
+2. pengguna bisa mengakses data ke server untuk melihat file
+
+kekurangan : 
+- jika pengguna offline, merek tidak bisa melihat riwayat file karena semua riwayat 
+hanya ada di server
+- jika server down, maka seluruh pengguna tidak bisa melakukan perubahan dan melihat revisi file
+- contohnya centralized-version adalah subversion
