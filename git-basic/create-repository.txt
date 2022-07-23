@@ -1,0 +1,5 @@
+1. git init di folder yang akan ditambahkan ke github
+2. 
+
+-> untuk mengecek keadaan git sekarang 
+- git status
