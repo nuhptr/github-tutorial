@@ -17,4 +17,4 @@ untuk mengecek keadaan git sekarang
 
 -- TODO: Staging Index --
 -> membatalkan dari staging index (turunkan ke working directory)
-- git restored --staged namafile.extension
+- git restore --staged namafile.extension
