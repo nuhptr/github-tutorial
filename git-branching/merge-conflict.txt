@@ -11,3 +11,4 @@ kita bisa gunakan perintah :
 
 - memperbaiki conflict
 memperbaikinya secara manual tidak ada cara otomatis
+jika sudah diperbaiki lakukan commit ulang
