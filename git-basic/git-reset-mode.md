@@ -1,3 +1,5 @@
+### Git Reset Mode
+
 git reset <mode> hash (ex: 34567c...)
 
 1. --soft, memindahkan HEAD pointer namun tidak melakukan perubahan apapun di Staging Index

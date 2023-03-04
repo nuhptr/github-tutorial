@@ -1,2 +1,0 @@
-untuk melihat branch sekarang
-=> git branch --show-current

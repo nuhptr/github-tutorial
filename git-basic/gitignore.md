@@ -1,3 +1,6 @@
+### .gitignore
+
+```sh
 => buat file dengan nama .gitignore
 
 # ignore folder log
@@ -8,3 +11,4 @@ log/
 
 # ignore file
 ignore.txt
+```

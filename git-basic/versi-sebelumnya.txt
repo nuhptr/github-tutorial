@@ -1,4 +1,0 @@
-=> git checkout hash -- namafile.extension
-
-=> git checkout <hash> (untuk ke commit sebelumnya)
-=> git checkout master (untuk kembali ke paling baru)
