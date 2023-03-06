@@ -11,4 +11,12 @@ misal tag 1.0.0, tag 1.0.2, dan lain-lain
 # Membuat Tag
 - Tag bersifat unique jadi gunakan nama yang berbeda
 $ git tag tagName commitId
+
+# Menampilkan Tag (pilih salah satu aja)
+$ git tag
+$ git tag -l
+$ git tag --list
+
+# Checkout ke tag jangan lupa dibikin tag di commit id branch lain
+$ git checkout tagName
 ```
