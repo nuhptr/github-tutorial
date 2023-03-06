@@ -1,7 +1,7 @@
 ### Git Revert Commit
 
 ```sh
-=> git revert <hash>
+$ git revert <hash>
 
 1. fitur yang membatalkan commit yang sudah kita lakukan dengan cara
 membuat commit baru yang membatalkan commit sebelumnya.

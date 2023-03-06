@@ -2,14 +2,14 @@
 
 ```sh
 Melihat log perubahan
-- git log
+$ git log
 
 melihat log perubahan dalam versi sederhana
-- git log -oneline
+$ git log -oneline
 
 melihat log perubahan dalam graph
-- git log -oneline --graph
+$ git log -oneline --graph
 
 melihat detail commit
-- git show hash / git show HEAD
+$ git show hash / git show HEAD
 ```

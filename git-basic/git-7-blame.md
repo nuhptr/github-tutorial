@@ -4,7 +4,7 @@
 digunakan untuk mengetahui siapa yang melakukan perubahan baris kode program
 dan apa saja yang ditambahkan
 
-=> git blame namafile.extension
+$ git blame namafile.extension
 
 example : file configuration.txt
 cf3aeeca (nuhptr 2022-07-23 21:18:36 +0700 1) git config --global user.name "Adi Nugraha Putra"
