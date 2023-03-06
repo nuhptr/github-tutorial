@@ -1,3 +1,6 @@
 teks yang dibiarkan di working directory
 
-# nyoba squash fitur
+
+
+
+# solve problem
