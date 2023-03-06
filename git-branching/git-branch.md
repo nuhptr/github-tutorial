@@ -12,6 +12,6 @@ Membuat Branch Baru :
 $ git branch namabranchbaru
 
 - pindah ke branch lain
-// git switch namabranch
-// git checkout namabranchbaru
+$ git switch namabranch
+$ git checkout namabranchbaru
 ```
