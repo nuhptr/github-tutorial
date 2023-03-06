@@ -1,6 +1,3 @@
 teks yang dibiarkan di working directory
 
-
-
-
 # solve problem
