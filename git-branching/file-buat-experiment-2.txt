@@ -1,4 +1,7 @@
 teks yang dibiarkan di working directory
+isi teks disini
+
+# feature merge squash
 
 # solve problem
 # feature merge squash
