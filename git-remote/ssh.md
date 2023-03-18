@@ -16,5 +16,20 @@
 - untuk membuat ssh key, kita bisa gunakan perintah ssh-keygen di terminal
 - setelah selesai, maka secara otomatis akan terdapat 2 key local, private key dan public key
 - kita bisa melihatnya didalam folder .ssh di Home Directory kita
-- File _id_rsa_ adalah private key, dan **id_rsa.pub** adalah public key
+- File **id_rsa** adalah private key, dan **id_rsa.pub** adalah public key
+```
+
+### SSH Public Key
+
+```sh
+- setelah kita membuat ssh key, selanjutnya kita perlu meregistrasikan SSH public key ke github
+- hal ini dilakukan, agar ketika nanti terkoneksi ke Git server di github, kita tidak perlu
+  melakukan autentikansi lagi
+- https://github.com/settings/keys
+```
+
+### Test SSH ke Github
+
+```sh
+- gunakan perintah ssh -T git@github.com
 ```
