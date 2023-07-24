@@ -7,7 +7,7 @@
 ```
 
 ```sh
-$ git commit --ammend
+$ git commit --amend
 note: ammend akan mengubah hash commit karena data perubahan yang dicommit akan bertambah
 
 $ git commit --amend -m "nama commit"
