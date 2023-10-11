@@ -1,5 +1,5 @@
 # [Tutorial of Github](https://www.youtube.com/@ProgrammerZamanNow/search?query=github)
 
-![Programmer Zaman Now](https://img-c.udemycdn.com/course/750x422/4136202_b887_2.jpg)
+![Programmer Zaman Now](https://www.programmerzamannow.com/assets/images/git-f9c9d72cb2a6a04a6eaa4dcee801b8ed.jpg)
 
 Github Tutorial by Programmer Zaman Now
